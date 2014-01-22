@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+{% block header %}
+    <script src="http://trifacta.github.io/vega/lib/d3.v3.min.js"></script>
+    <script src="http://trifacta.github.io/vega/lib/d3.geo.projection.min.js"></script>
+    <script src="http://trifacta.github.io/vega/vega.js"></script>
+{% endblock %}
+{% block maincontent %}
+	<div>
+		<div>
+			<h2>{{ hop.name }}</h2>
+			<p>alpha: {{hop['alpha']}}</p>
+            <p>origin: {{hop['origin']}}</p>
+            <p>notes: {{hop['notes']}}</p>
+            <p>substitutes: {{hop['substitutes']}}</p>
+		</div>
+		<div id="vis"></div>
+	</div>
+{% endblock %}
+{% block javascript %}
+<script type="text/javascript">
+// parse a spec and create a visualization view
+function parse(spec) {
+  vg.parse.spec(spec, function(chart) { chart({el:"#vis"}).width(500).renderer("svg").update(); });
+}
+
+//parse( {{ viz_path }} )
+parse("{{ url_for('static',filename='viz.json')}}");
+
+$(window).resize(function() {
+    if(this.resizeTO) clearTimeout(this.resizeTO);
+    this.resizeTO = setTimeout(function() {
+        $(this).trigger('resizeEnd');
+    }, 500);
+});
+
+$(window).bind('resizeEnd', function() {
+    /*d3.select("g").attr("transform", "scale(" + $("#vis").width()/600 + ")";
+    $("svg").height($("#vis").width()*0.618);
+    var divWidth = 
+    $(".className").attr("width", "divWidth");
+    */
+});
+
+
+</script>
+{% endblock %}

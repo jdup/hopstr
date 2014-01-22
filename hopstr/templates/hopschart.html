@@ -1,0 +1,47 @@
+{% extends "layout.html" %}
+{% block header %}
+    <script src="http://trifacta.github.io/vega/lib/d3.v3.min.js"></script>
+    <script src="http://trifacta.github.io/vega/lib/d3.geo.projection.min.js"></script>
+    <script src="http://trifacta.github.io/vega/vega.js"></script>
+   
+{% endblock %}
+{% block content %}
+	<div>
+		<h2>Hop Composition</h2>
+		<div class="jumbotron" id="vis"></div>
+	</div>
+{% endblock %}
+{% block javascript %}
+<script type="text/javascript">
+// parse a spec and create a visualization view
+function parse(spec) {
+  vg.parse.spec(spec, function(chart) { 
+  	var view = chart({el:"#vis"})
+  		.on("mouseover", function(event,item) {
+  			view.update({
+  				props: "hover",
+  			})
+        console.log(event);
+  		})
+  		.on("mouseout",function(event,item) {
+  			view.update({
+  				props: "update",
+  				duration: 250,
+  				ease: "linear"
+  			});
+  		})
+  		.width(window.innerWidth)
+  		.update();
+  });
+  //view.width(200).update();
+
+}
+
+//parse( {{ viz_path }} )
+parse("{{ url_for('static',filename='viz.json')}}");
+window.addEventListener('resize', function(event){
+  // do stuff here
+});
+
+</script>
+{% endblock %}

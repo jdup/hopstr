@@ -1,0 +1,2372 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Hop Name",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Percent",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Agnus",
+          "val": 14.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Agnus",
+          "val": 7.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Agnus",
+          "val": 0.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Agnus",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Agnus",
+          "val": 0.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Agnus",
+          "val": 0.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Ahtanum",
+          "val": 9.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Ahtanum",
+          "val": 5.75
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Ahtanum",
+          "val": 18.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Ahtanum",
+          "val": 10.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Ahtanum",
+          "val": 32.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Ahtanum",
+          "val": 52.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Amarillo",
+          "val": 9.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Amarillo",
+          "val": 6.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Amarillo",
+          "val": 10.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Amarillo",
+          "val": 3.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Amarillo",
+          "val": 22.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Amarillo",
+          "val": 69.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Apollo",
+          "val": 17.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Apollo",
+          "val": 7.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Apollo",
+          "val": 27.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Apollo",
+          "val": 17.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Apollo",
+          "val": 26.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Apollo",
+          "val": 40.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Bor",
+          "val": 8.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Bor",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Bor",
+          "val": 30.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Bor",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Bor",
+          "val": 23.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Bor",
+          "val": 45.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Bramling",
+          "val": 6.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Bramling",
+          "val": 2.8
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Bramling",
+          "val": 31.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Bramling",
+          "val": 16.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Bramling",
+          "val": 34.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Bramling",
+          "val": 36.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Bravo",
+          "val": 15.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Bravo",
+          "val": 3.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Bravo",
+          "val": 19.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Bravo",
+          "val": 11.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Bravo",
+          "val": 31.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Bravo",
+          "val": 37.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Brewers Gold",
+          "val": 7.6
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Brewers Gold",
+          "val": 0.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Brewers Gold",
+          "val": 0.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Brewers Gold",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Brewers Gold",
+          "val": 0.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Brewers Gold",
+          "val": 0.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Bullion",
+          "val": 7.75
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Bullion",
+          "val": 5.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Bullion",
+          "val": 26.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Bullion",
+          "val": 10.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Bullion",
+          "val": 37.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Bullion",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Cascade",
+          "val": 6.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Cascade",
+          "val": 6.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Cascade",
+          "val": 10.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Cascade",
+          "val": 4.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Cascade",
+          "val": 36.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Cascade",
+          "val": 47.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Centennial",
+          "val": 10.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Centennial",
+          "val": 4.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Centennial",
+          "val": 11.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Centennial",
+          "val": 5.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Centennial",
+          "val": 29.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Centennial",
+          "val": 58.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Challenger",
+          "val": 7.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Challenger",
+          "val": 4.25
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Challenger",
+          "val": 28.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Challenger",
+          "val": 9.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Challenger",
+          "val": 22.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Challenger",
+          "val": 36.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Chelan",
+          "val": 13.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Chelan",
+          "val": 9.15
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Chelan",
+          "val": 13.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Chelan",
+          "val": 10.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Chelan",
+          "val": 34.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Chelan",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Chinook",
+          "val": 13.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Chinook",
+          "val": 3.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Chinook",
+          "val": 20.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Chinook",
+          "val": 10.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Chinook",
+          "val": 32.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Chinook",
+          "val": 37.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Citra",
+          "val": 12.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Citra",
+          "val": 4.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Citra",
+          "val": 12.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Citra",
+          "val": 7.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Citra",
+          "val": 23.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Citra",
+          "val": 62.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Cluster",
+          "val": 7.75
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Cluster",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Cluster",
+          "val": 16.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Cluster",
+          "val": 6.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Cluster",
+          "val": 40.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Cluster",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Columbus/Tomahawk/Zeus",
+          "val": 15.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Columbus/Tomahawk/Zeus",
+          "val": 4.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Columbus/Tomahawk/Zeus",
+          "val": 30.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Columbus/Tomahawk/Zeus",
+          "val": 10.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Columbus/Tomahawk/Zeus",
+          "val": 30.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Columbus/Tomahawk/Zeus",
+          "val": 45.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Crystal",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Crystal",
+          "val": 5.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Crystal",
+          "val": 21.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Crystal",
+          "val": 6.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Crystal",
+          "val": 23.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Crystal",
+          "val": 52.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "El Dorado",
+          "val": 15.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "El Dorado",
+          "val": 7.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "El Dorado",
+          "val": 13.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "El Dorado",
+          "val": 7.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "El Dorado",
+          "val": 29.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "El Dorado",
+          "val": 57.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "First Gold",
+          "val": 7.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "First Gold",
+          "val": 3.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "First Gold",
+          "val": 22.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "First Gold",
+          "val": 6.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "First Gold",
+          "val": 33.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "First Gold",
+          "val": 27.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Fuggles",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Fuggles",
+          "val": 2.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Fuggles",
+          "val": 34.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Fuggles",
+          "val": 11.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Fuggles",
+          "val": 27.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Fuggles",
+          "val": 26.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Galena",
+          "val": 12.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Galena",
+          "val": 8.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Galena",
+          "val": 11.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Galena",
+          "val": 5.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Galena",
+          "val": 38.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Galena",
+          "val": 57.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Glacier",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Glacier",
+          "val": 8.2
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Glacier",
+          "val": 30.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Glacier",
+          "val": 9.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Glacier",
+          "val": 29.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Glacier",
+          "val": 47.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Golding",
+          "val": 5.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Golding",
+          "val": 2.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Golding",
+          "val": 40.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Golding",
+          "val": 14.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Golding",
+          "val": 25.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Golding",
+          "val": 30.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Green Bullet",
+          "val": 11.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Green Bullet",
+          "val": 7.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Green Bullet",
+          "val": 24.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Green Bullet",
+          "val": 7.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Green Bullet",
+          "val": 42.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Green Bullet",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Hallertau",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Hallertau",
+          "val": 4.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Hallertau",
+          "val": 55.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Hallertau",
+          "val": 14.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Hallertau",
+          "val": 24.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Hallertau",
+          "val": 16.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Harmonie",
+          "val": 6.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Harmonie",
+          "val": 6.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Harmonie",
+          "val": 15.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Harmonie",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Harmonie",
+          "val": 21.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Harmonie",
+          "val": 35.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Hersbrucker",
+          "val": 3.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Hersbrucker",
+          "val": 5.25
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Hersbrucker",
+          "val": 30.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Hersbrucker",
+          "val": 12.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Hersbrucker",
+          "val": 21.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Hersbrucker",
+          "val": 12.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Kent Goldings",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Kent Goldings",
+          "val": 2.4
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Kent Goldings",
+          "val": 41.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Kent Goldings",
+          "val": 14.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Kent Goldings",
+          "val": 30.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Kent Goldings",
+          "val": 25.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Liberty",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Liberty",
+          "val": 3.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Liberty",
+          "val": 35.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Liberty",
+          "val": 10.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Liberty",
+          "val": 26.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Liberty",
+          "val": 33.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Lublin (Lubelski)",
+          "val": 4.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Lublin (Lubelski)",
+          "val": 0.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Lublin (Lubelski)",
+          "val": 0.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Lublin (Lubelski)",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Lublin (Lubelski)",
+          "val": 0.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Lublin (Lubelski)",
+          "val": 0.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Magnum",
+          "val": 13.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Magnum",
+          "val": 6.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Magnum",
+          "val": 37.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Magnum",
+          "val": 10.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Magnum",
+          "val": 25.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Magnum",
+          "val": 37.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Marynka",
+          "val": 10.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Marynka",
+          "val": 11.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Marynka",
+          "val": 29.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Marynka",
+          "val": 11.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Marynka",
+          "val": 29.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Marynka",
+          "val": 29.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Millennium",
+          "val": 15.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Millennium",
+          "val": 4.8
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Millennium",
+          "val": 25.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Millennium",
+          "val": 10.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Millennium",
+          "val": 30.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Millennium",
+          "val": 35.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Mount Hood",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Mount Hood",
+          "val": 6.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Mount Hood",
+          "val": 34.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Mount Hood",
+          "val": 14.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Mount Hood",
+          "val": 22.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Mount Hood",
+          "val": 35.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Northern Brewer",
+          "val": 9.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Northern Brewer",
+          "val": 4.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Northern Brewer",
+          "val": 25.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Northern Brewer",
+          "val": 7.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Northern Brewer",
+          "val": 27.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Northern Brewer",
+          "val": 55.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Nugget",
+          "val": 13.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Nugget",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Nugget",
+          "val": 17.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Nugget",
+          "val": 8.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Nugget",
+          "val": 24.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Nugget",
+          "val": 51.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Palisade",
+          "val": 7.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Palisade",
+          "val": 7.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Palisade",
+          "val": 20.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Palisade",
+          "val": 17.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Palisade",
+          "val": 26.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Palisade",
+          "val": 9.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Perle",
+          "val": 7.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Perle",
+          "val": 4.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Perle",
+          "val": 30.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Perle",
+          "val": 11.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Perle",
+          "val": 29.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Perle",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Phoenix",
+          "val": 11.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Phoenix",
+          "val": 4.4
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Phoenix",
+          "val": 29.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Phoenix",
+          "val": 9.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Phoenix",
+          "val": 30.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Phoenix",
+          "val": 28.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Premiant",
+          "val": 8.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Premiant",
+          "val": 4.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Premiant",
+          "val": 30.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Premiant",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Premiant",
+          "val": 21.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Premiant",
+          "val": 42.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Pride of Ringwood",
+          "val": 8.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Pride of Ringwood",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Pride of Ringwood",
+          "val": 5.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Pride of Ringwood",
+          "val": 7.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Pride of Ringwood",
+          "val": 37.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Pride of Ringwood",
+          "val": 37.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Progress",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Progress",
+          "val": 2.3
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Progress",
+          "val": 43.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Progress",
+          "val": 13.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Progress",
+          "val": 30.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Progress",
+          "val": 32.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Rubin",
+          "val": 12.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Rubin",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Rubin",
+          "val": 16.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Rubin",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Rubin",
+          "val": 29.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Rubin",
+          "val": 40.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Saaz (Czech Republic)",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Saaz (Czech Republic)",
+          "val": 5.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Saaz (Czech Republic)",
+          "val": 30.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Saaz (Czech Republic)",
+          "val": 11.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Saaz (Czech Republic)",
+          "val": 28.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Saaz (Czech Republic)",
+          "val": 30.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Saaz (USA)",
+          "val": 3.75
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Saaz (USA)",
+          "val": 3.75
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Saaz (USA)",
+          "val": 37.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Saaz (USA)",
+          "val": 10.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Saaz (USA)",
+          "val": 26.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Saaz (USA)",
+          "val": 27.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Simcoe",
+          "val": 13.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Simcoe",
+          "val": 4.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Simcoe",
+          "val": 12.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Simcoe",
+          "val": 6.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Simcoe",
+          "val": 17.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Simcoe",
+          "val": 62.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Sladek",
+          "val": 6.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Sladek",
+          "val": 7.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Sladek",
+          "val": 25.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Sladek",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Sladek",
+          "val": 27.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Sladek",
+          "val": 45.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Sorachi Ace",
+          "val": 10.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Sorachi Ace",
+          "val": 0.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Sorachi Ace",
+          "val": 0.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Sorachi Ace",
+          "val": 0.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Sorachi Ace",
+          "val": 23.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Sorachi Ace",
+          "val": 0.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Spalt",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Spalt",
+          "val": 4.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Spalt",
+          "val": 25.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Spalt",
+          "val": 10.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Spalt",
+          "val": 25.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Spalt",
+          "val": 27.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Sterling",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Sterling",
+          "val": 5.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Sterling",
+          "val": 7.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Sterling",
+          "val": 21.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Sterling",
+          "val": 22.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Sterling",
+          "val": 46.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Strisselspalt",
+          "val": 4.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Strisselspalt",
+          "val": 4.25
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Strisselspalt",
+          "val": 20.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Strisselspalt",
+          "val": 9.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Strisselspalt",
+          "val": 22.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Strisselspalt",
+          "val": 25.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Styrian Goldings",
+          "val": 4.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Styrian Goldings",
+          "val": 3.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Styrian Goldings",
+          "val": 31.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Styrian Goldings",
+          "val": 9.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Styrian Goldings",
+          "val": 29.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Styrian Goldings",
+          "val": 31.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Summit",
+          "val": 17.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Summit",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Summit",
+          "val": 20.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Summit",
+          "val": 12.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Summit",
+          "val": 29.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Summit",
+          "val": 40.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Super Galena",
+          "val": 14.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Super Galena",
+          "val": 9.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Super Galena",
+          "val": 21.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Super Galena",
+          "val": 10.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Super Galena",
+          "val": 37.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Super Galena",
+          "val": 52.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Target",
+          "val": 10.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Target",
+          "val": 5.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Target",
+          "val": 19.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Target",
+          "val": 9.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Target",
+          "val": 37.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Target",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Tettnang",
+          "val": 4.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Tettnang",
+          "val": 3.75
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Tettnang",
+          "val": 22.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Tettnang",
+          "val": 8.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Tettnang",
+          "val": 26.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Tettnang",
+          "val": 22.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Tillicum",
+          "val": 13.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Tillicum",
+          "val": 10.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Tillicum",
+          "val": 14.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Tillicum",
+          "val": 7.4
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Tillicum",
+          "val": 35.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Tillicum",
+          "val": 50.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Tradition",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Tradition",
+          "val": 4.5
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Tradition",
+          "val": 45.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Tradition",
+          "val": 12.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Tradition",
+          "val": 27.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Tradition",
+          "val": 24.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Vanguard",
+          "val": 5.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Vanguard",
+          "val": 6.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Vanguard",
+          "val": 46.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Vanguard",
+          "val": 12.5
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Vanguard",
+          "val": 17.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Vanguard",
+          "val": 22.5
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Warrior",
+          "val": 15.5
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Warrior",
+          "val": 4.8
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Warrior",
+          "val": 17.0
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Warrior",
+          "val": 10.0
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Warrior",
+          "val": 24.0
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Warrior",
+          "val": 45.0
+        },
+        {
+          "col": "alpha",
+          "group": 0,
+          "idx": "Willamette",
+          "val": 5.0
+        },
+        {
+          "col": "beta",
+          "group": 1,
+          "idx": "Willamette",
+          "val": 4.0
+        },
+        {
+          "col": "humulene",
+          "group": 2,
+          "idx": "Willamette",
+          "val": 23.5
+        },
+        {
+          "col": "caryophyllene",
+          "group": 3,
+          "idx": "Willamette",
+          "val": 7.35
+        },
+        {
+          "col": "cohumulone",
+          "group": 4,
+          "idx": "Willamette",
+          "val": 32.5
+        },
+        {
+          "col": "myrcene",
+          "group": 5,
+          "idx": "Willamette",
+          "val": 35.0
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.idx"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "fill": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "width": {
+                "band": true,
+                "offset": -1,
+                "scale": "pos"
+              },
+              "x": {
+                "field": "data.group",
+                "scale": "pos"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              },
+              "y2": {
+                "scale": "y",
+                "value": 0
+              }
+            }
+          },
+          "type": "rect"
+        }
+      ],
+      "properties": {
+        "enter": {
+          "width": {
+            "band": true,
+            "scale": "x"
+          },
+          "x": {
+            "field": "key",
+            "scale": "x"
+          }
+        }
+      },
+      "scales": [
+        {
+          "domain": {
+            "field": "data.group"
+          },
+          "name": "pos",
+          "range": "width",
+          "type": "ordinal"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": {
+    "bottom": 50,
+    "left": 50,
+    "right": 100,
+    "top": 10
+  },
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "padding": 0.2,
+      "range": "width",
+      "type": "ordinal"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": [
+        "#9e0142",
+        "#d53e4f",
+        "#f46d43",
+        "#fdae61",
+        "#fee08b",
+        "#ffffbf",
+        "#e6f598",
+        "#abdda4",
+        "#66c2a5",
+        "#3288bd",
+        "#5e4fa2"
+      ],
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}

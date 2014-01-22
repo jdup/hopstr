@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bar Chart</title>
+
+    <style type="text/css">
+
+		svg {
+			font: 10px sans-serif;
+		}
+		.bar rect {
+		  fill: steelblue;
+		}
+
+		.bar:hover rect {
+		  fill: red;
+		}
+
+		.bar text.value {
+		  fill: white;
+		}
+
+		.axis {
+		  shape-rendering: crispEdges;
+		}
+
+		.axis path,
+		.axis line {
+		  fill: none;
+          stroke: #000;
+		}
+		.axis text {
+			font-family: sans-serif;
+			font-size: 11px;
+		}
+
+		.x.axis line {
+		  stroke: #fff;
+		  stroke-opacity: .8;
+		}
+
+		.y.axis path {
+		  stroke: black;
+		}
+
+		form {
+			position: absolute;
+			right: 10px;
+			top:10px;
+		}
+
+    </style>
+</head>
+
+<body>
+	<p id="menu"><b>Rank Hops</b><br>characteristic: <select></select>
+	<p id="chart">
+
+
+<script src="http://d3js.org/d3.v2.min.js?2.9.1"></script>
+
+<script src="../static/js/rankhops.js"></script>
+</body>
+
+
